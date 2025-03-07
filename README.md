@@ -3,6 +3,8 @@
 ## Overview
 This project implements a simple machine learning-based approach to automatically classify the language of a given text. The method involves preprocessing steps such as alphabet (script) detection and feature extraction, followed by classification using logistic regression with optimized hyperparameters.
 
+For more detailed on the methodology, refer to `REPORT - Simple Language Classifier.pdf`.
+
 ## Features
 - **Multilingual classification** of texts from a diverse dataset.
 - **Script detection** to refine classification by narrowing language candidates.
